@@ -52,7 +52,6 @@ public class TransportationOrder {
     public double distanceToDestination()  {
 
         return Math.sqrt(Math.pow(this.dstLat -this.lastLat, 2)
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
                     + Math.pow(this.dstLong - this.lastLong, 2));
 
     }
