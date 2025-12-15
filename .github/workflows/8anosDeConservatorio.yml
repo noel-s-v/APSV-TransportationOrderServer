@@ -117,7 +117,7 @@ jobs:
 
         cluster_name: 'apsv-24'
 
-        location: 'us-central1'
+        location: 'eu-west10'
 
     # The KUBECONFIG env var is automatically exported and picked up by kubectl.
 
